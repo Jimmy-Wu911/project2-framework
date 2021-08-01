@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS realestate_DB;
+CREATE DATABASE realestate_DB;
